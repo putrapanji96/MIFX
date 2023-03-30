@@ -1,5 +1,8 @@
-# MIFX
 
+## IOS
+![alt text](https://i.postimg.cc/XNRvkWFd/Simulator-Screen-Shot-i-Phone-14-2023-03-30-at-09-29-07.png)
+## Android
+![alt text](https://i.postimg.cc/mrCjhBQj/Screenshot-1680143716.png)
 ## 1. run this to install all dependencies 
 ```sh
 $ yarn install 
